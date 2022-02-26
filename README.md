@@ -1,8 +1,8 @@
 Hellooo,
+I have been learning python for some time and this is one of my first projects.
+Feel free to let me know if something is wrong/incorrect or could have been done better or improved.
 
-This is one of my first small projects so feel free to let me know if something is wrong or could be improved.
-
-With this you can return the following:
+The following actions are available:
 
   1. List of top 100 Cripto Currencies
 
@@ -34,8 +34,8 @@ With this you can return the following:
 - **API - Coincap** - Url: https://docs.coincap.io - No need for key
 
 **Modules Used**:
-- Module Requests (https://docs.python-requests.org/en/latest/)
-- Module Tabulate (https://pypi.org/project/tabulate/)
-- Module Matplotlib (https://matplotlib.org)
-- Module Time
-- Module Datetime
+- requests (https://docs.python-requests.org/en/latest/)
+- tabulate (https://pypi.org/project/tabulate/)
+- matplotlib (https://matplotlib.org)
+- time
+- datetime
