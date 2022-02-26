@@ -269,13 +269,13 @@ def coincap_symbolhist(coin, interval):
 
 # END COIN CAP API / BEGINING OF MAIN
 
-def MainApp():
+class MainApp():
     inputsearch = ""
-    print("Welcome. Please choose one of the options using the number ID:")
+    print("Welcome. \nPlease choose one of the options using the number ID:")
     while inputsearch != "end" or inputsearch != "exit" or inputsearch != "quit":
         main_menu_options()
         input_option = input("Insert a number from the menu or end to exit the program: ").lower()
-        if input_option == "end" or input_option == "exit" or input_option == "0" or inputsearch != "quit:
+        if input_option == "end" or input_option == "exit" or input_option == "0":
             break
         elif (not input_option.isdigit()):
             print("\nPlease insert a valid number")
