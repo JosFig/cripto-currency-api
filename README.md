@@ -7,7 +7,7 @@ This is one of my first small projects so feel free to let me know if something 
 - **API - Ethereum Scan** - Url: https://etherscan.io/ - Necessary to have an account/api key
 - **API - Coincap** - Url: https://docs.coincap.io - No need for key
 
-**Requirements**:
+**Modules Used**:
 - Module Requests
 - Module Tabulate
 - Module Matplotlib
