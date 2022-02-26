@@ -34,8 +34,8 @@ With this you can return the following:
 - **API - Coincap** - Url: https://docs.coincap.io - No need for key
 
 **Modules Used**:
-- Module Requests
-- Module Tabulate
-- Module Matplotlib
+- Module Requests (https://docs.python-requests.org/en/latest/)
+- Module Tabulate (https://pypi.org/project/tabulate/)
+- Module Matplotlib (https://matplotlib.org)
 - Module Time
 - Module Datetime
